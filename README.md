@@ -25,7 +25,7 @@ To get started with AbalGames, follow the steps below:
 ```php artisan serve```
 
 
-## Anggota Kelompok
+## Anggota Kelompok 4
 
   - Muhammad Abbyan Khairi (2008001010010)
   - Said Rizki Ananda Putra (2008001010042)
