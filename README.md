@@ -1,4 +1,4 @@
-![Deskripsi Gambar](jus.jpg)
+![Deskripsi Gambar](1.jpeg)
 
 ## Deskripsi Projek
 
