@@ -12,7 +12,7 @@
 
 ## Anggota Kelompok
 
-  - Muhammad Abbyan Khairi
-  - Said Rizki Ananda Putra
-  - Naufal Alvi Syahri
-  - Muhammad Syafiq
+  - Muhammad Abbyan Khairi (20080010100
+  - Said Rizki Ananda Putra (2008001010042)
+  - Naufal Alvi Syahri (1908001010035)
+  - Muhammad Syafiq (1908001010013)
